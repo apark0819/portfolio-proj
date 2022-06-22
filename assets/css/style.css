@@ -54,5 +54,7 @@ color: azure;
 .AboutMe {
     text-align: center;
     margin-left: auto;
-    margin-right: auto ;
+    margin-right: auto;
+    width: 500px;
+    padding: 10px;
 }
