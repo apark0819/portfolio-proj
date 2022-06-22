@@ -57,4 +57,25 @@ color: azure;
     margin-right: auto;
     width: 500px;
     padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+/*My Work*/
+#Work {
+    margin-top: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: azure;
+    display: flex;
+    justify-content: center;
+}
+
+#Contact {
+    margin-top: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: azure;
+    display: flex;
+    justify-content: center;
 }
