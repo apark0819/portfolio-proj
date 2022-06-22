@@ -31,3 +31,28 @@ color: azure;
     color: black;
     padding: 0px 25px;
 }
+
+/*About Me*/
+#aboutme {
+    margin-top: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: azure;
+    display: flex;
+    justify-content: center;
+}
+#Me img {
+    width: 15%;
+    height: auto;
+    padding: 10;
+    margin-top: 10px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.AboutMe {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto ;
+}
